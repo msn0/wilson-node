@@ -1,4 +1,4 @@
-# Wilson score interval
+# Wilson score interval [![Build Status](https://travis-ci.org/msn0/wilson-node.svg?branch=master)](http://travis-ci.org/msn0/wilson-node)
 
 Simple implementation of [Wilson score interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval) 
 in Node.js.
