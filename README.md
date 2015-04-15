@@ -6,6 +6,12 @@ in Node.js. For browser version refer to https://github.com/msn0/wilson-score-in
 Wilson score interval is a perfect tool for scoring comments. The only data you need is a number of upvotes 
 and a total number of votes. It has really good properties even for small number of votes.
 
+## Installation
+
+```
+npm install wilson-node
+```
+
 ## Usage
 
 ```js
