@@ -1,0 +1,26 @@
+{
+  "name": "wilson-node",
+  "version": "1.0.0",
+  "description": "wilson score interval - a binomial proportion confidence interval (node module)",
+  "author": {
+    "name": "Michał Jezierski",
+    "email": "ambinanitelo@gmail.com"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": "msn0/wilson-node",
+  "license": "Apache-2.0",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "wilson", "interval", "confidence", "wilson score"
+  ],
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
