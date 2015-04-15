@@ -10,7 +10,7 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=0.10.0"
   },
   "repository": "msn0/wilson-node",
   "license": "Apache-2.0",
